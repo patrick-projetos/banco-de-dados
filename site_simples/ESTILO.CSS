@@ -1,0 +1,22 @@
+
+    *{
+        -webkit-box-sizing: border-box;
+    }
+    .menu,
+    #menu_1{ box-sizing: border-box;}
+    .menu {
+        background: rgb(196, 193, 193);
+        width: 250px;
+        height: 50px;
+        border: 1px solid;
+        text-align: center;
+    }
+  
+    #menu_1 {
+        background: rgb(255, 0, 0);
+        text-align: center;
+        width: 250px;
+        height: 50px;
+        padding: 0 50px;
+        border: 1px solid;
+    }
